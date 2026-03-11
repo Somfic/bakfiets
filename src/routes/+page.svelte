@@ -1,4 +1,8 @@
-<img src="/image.png" />
+<script>
+	import { base } from '$app/paths';
+</script>
+
+<img src="{base}/image.png" alt="Bakfiets" />
 <h1>d66bakfietswijf.nl</h1>
 
 <style lang="scss">
